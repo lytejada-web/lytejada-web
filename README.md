@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola, soy Luis Ygor Tejada Meléndez 👋
 
-<!--
-**lytejada-web/lytejada-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web y Creador de Aplicaciones con IA.
 
-Here are some ideas to get you started:
+📍 Vitoria-Gasteiz, Álava, España
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Especializado en
+
+- Landing Pages
+- Webs Corporativas
+- Aplicaciones Web
+- Desarrollo con IA
+
+## 🛠 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+- Vercel
+- GitHub Copilot
+- Gemini AI
+
+## 🌐 Portfolio
+
+👉 [Portfolio Profesional](https://luisygor-dev.vercel.app/)
+
+## 📂 Proyectos Destacados
+
+### Aura Elite
+Aplicación web SaaS orientada a la gestión empresarial.
+
+### Eko Watt Álava
+Landing page para captación de clientes en eficiencia energética.
+
+### One God Adventure
+Proyecto personal RPG Pixel Art en desarrollo.
+
+## 📫 Contacto
+
+Puedes contactarme a través de mi portfolio.
